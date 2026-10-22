@@ -1,0 +1,352 @@
+[
+  {
+    "id": "sonder",
+    "word": "sonder",
+    "partOfSpeech": "noun",
+    "definition": "The realization that each passerby has a life as vivid and complex as your own.",
+    "example": "Watching the lit windows of the train, she felt a wave of sonder."
+  },
+  {
+    "id": "petrichor",
+    "word": "petrichor",
+    "partOfSpeech": "noun",
+    "definition": "The pleasant, earthy smell that follows rain after a dry spell.",
+    "example": "He opened the door to the petrichor of the first autumn storm."
+  },
+  {
+    "id": "ephemeral",
+    "word": "ephemeral",
+    "partOfSpeech": "adjective",
+    "definition": "Lasting for a very short time.",
+    "example": "The ephemeral glow of sunset lit the whole street gold."
+  },
+  {
+    "id": "serendipity",
+    "word": "serendipity",
+    "partOfSpeech": "noun",
+    "definition": "The occurrence of happy or useful events by chance.",
+    "example": "Finding that bookstore was pure serendipity."
+  },
+  {
+    "id": "halcyon",
+    "word": "halcyon",
+    "partOfSpeech": "adjective",
+    "definition": "Denoting a period of time in the past that was idyllically happy and peaceful.",
+    "example": "They still talk about the halcyon summers at the lake."
+  },
+  {
+    "id": "limerence",
+    "word": "limerence",
+    "partOfSpeech": "noun",
+    "definition": "The state of being infatuated with another person.",
+    "example": "In the haze of limerence, every text felt like an event."
+  },
+  {
+    "id": "sanguine",
+    "word": "sanguine",
+    "partOfSpeech": "adjective",
+    "definition": "Optimistic or positive, especially in a difficult situation.",
+    "example": "Despite the delays, the team remained sanguine about the launch."
+  },
+  {
+    "id": "eloquence",
+    "word": "eloquence",
+    "partOfSpeech": "noun",
+    "definition": "Fluent or persuasive speaking or writing.",
+    "example": "Her eloquence turned a routine update into a rallying cry."
+  },
+  {
+    "id": "mellifluous",
+    "word": "mellifluous",
+    "partOfSpeech": "adjective",
+    "definition": "Sweet or musical; pleasant to hear.",
+    "example": "The narrator's mellifluous voice made the audiobook fly by."
+  },
+  {
+    "id": "ineffable",
+    "word": "ineffable",
+    "partOfSpeech": "adjective",
+    "definition": "Too great or extreme to be expressed in words.",
+    "example": "Standing at the canyon's edge, he felt an ineffable calm."
+  },
+  {
+    "id": "luminous",
+    "word": "luminous",
+    "partOfSpeech": "adjective",
+    "definition": "Full of or shedding light; bright or shining.",
+    "example": "The luminous moon made the snow glow blue."
+  },
+  {
+    "id": "quintessential",
+    "word": "quintessential",
+    "partOfSpeech": "adjective",
+    "definition": "Representing the most perfect or typical example of a quality or class.",
+    "example": "A rainy Sunday with soup is the quintessential slow day."
+  },
+  {
+    "id": "resilience",
+    "word": "resilience",
+    "partOfSpeech": "noun",
+    "definition": "The capacity to recover quickly from difficulties.",
+    "example": "Her resilience after the setback inspired everyone."
+  },
+  {
+    "id": "equanimity",
+    "word": "equanimity",
+    "partOfSpeech": "noun",
+    "definition": "Mental calmness and composure, especially in a difficult situation.",
+    "example": "He accepted the news with surprising equanimity."
+  },
+  {
+    "id": "sojourn",
+    "word": "sojourn",
+    "partOfSpeech": "noun",
+    "definition": "A temporary stay.",
+    "example": "Their sojourn in Lisbon stretched from one week to three."
+  },
+  {
+    "id": "wanderlust",
+    "word": "wanderlust",
+    "partOfSpeech": "noun",
+    "definition": "A strong desire to travel and explore the world.",
+    "example": "Every airport departure board gives her a jolt of wanderlust."
+  },
+  {
+    "id": "vellichor",
+    "word": "vellichor",
+    "partOfSpeech": "noun",
+    "definition": "The strange wistfulness of used bookshops.",
+    "example": "The dusty shelves filled him with vellichor."
+  },
+  {
+    "id": "eudaimonia",
+    "word": "eudaimonia",
+    "partOfSpeech": "noun",
+    "definition": "A state of flourishing and living well; true happiness.",
+    "example": "For Aristotle, eudaimonia came from living with virtue."
+  },
+  {
+    "id": "apricity",
+    "word": "apricity",
+    "partOfSpeech": "noun",
+    "definition": "The warmth of the sun in winter.",
+    "example": "They sat on the bench, soaking up the apricity."
+  },
+  {
+    "id": "solivagant",
+    "word": "solivagant",
+    "partOfSpeech": "adjective",
+    "definition": "Wandering alone.",
+    "example": "A solivagant traveler, she preferred her own pace."
+  },
+  {
+    "id": "lucid",
+    "word": "lucid",
+    "partOfSpeech": "adjective",
+    "definition": "Expressed clearly; easy to understand.",
+    "example": "The professor gave a lucid explanation of a messy topic."
+  },
+  {
+    "id": "perspicacious",
+    "word": "perspicacious",
+    "partOfSpeech": "adjective",
+    "definition": "Having a ready insight into things; shrewd.",
+    "example": "A perspicacious reader spots the twist by chapter three."
+  },
+  {
+    "id": "magnanimous",
+    "word": "magnanimous",
+    "partOfSpeech": "adjective",
+    "definition": "Generous or forgiving, especially toward a rival or someone less powerful.",
+    "example": "She was magnanimous in victory and shook every hand."
+  },
+  {
+    "id": "tenacity",
+    "word": "tenacity",
+    "partOfSpeech": "noun",
+    "definition": "The quality of being very determined; persistence.",
+    "example": "It took tenacity to rebuild the app from scratch."
+  },
+  {
+    "id": "verisimilitude",
+    "word": "verisimilitude",
+    "partOfSpeech": "noun",
+    "definition": "The appearance of being true or real.",
+    "example": "The film's verisimilitude came from its small, ordinary details."
+  },
+  {
+    "id": "ebullient",
+    "word": "ebullient",
+    "partOfSpeech": "adjective",
+    "definition": "Cheerful and full of energy.",
+    "example": "The ebullient crowd sang all the way home."
+  },
+  {
+    "id": "nadir",
+    "word": "nadir",
+    "partOfSpeech": "noun",
+    "definition": "The lowest point in the fortunes of a person or organization.",
+    "example": "Losing the final was the nadir of their season."
+  },
+  {
+    "id": "zenith",
+    "word": "zenith",
+    "partOfSpeech": "noun",
+    "definition": "The time at which something is most powerful or successful.",
+    "example": "At the zenith of her career, she walked away to paint."
+  },
+  {
+    "id": "aplomb",
+    "word": "aplomb",
+    "partOfSpeech": "noun",
+    "definition": "Self-confidence or assurance, especially in a demanding situation.",
+    "example": "He handled the tough questions with aplomb."
+  },
+  {
+    "id": "sempiternal",
+    "word": "sempiternal",
+    "partOfSpeech": "adjective",
+    "definition": "Eternal and unchanging; everlasting.",
+    "example": "The sempiternal rhythm of the tides calmed her."
+  },
+  {
+    "id": "gossamer",
+    "word": "gossamer",
+    "partOfSpeech": "adjective",
+    "definition": "Used to refer to something very light, thin, and delicate.",
+    "example": "Gossamer curtains drifted in the breeze."
+  },
+  {
+    "id": "redolent",
+    "word": "redolent",
+    "partOfSpeech": "adjective",
+    "definition": "Strongly reminiscent or suggestive of something; fragrant.",
+    "example": "The kitchen was redolent of cinnamon and cloves."
+  },
+  {
+    "id": "insouciant",
+    "word": "insouciant",
+    "partOfSpeech": "adjective",
+    "definition": "Showing a casual lack of concern; nonchalant.",
+    "example": "He gave an insouciant shrug and kept skating."
+  },
+  {
+    "id": "panacea",
+    "word": "panacea",
+    "partOfSpeech": "noun",
+    "definition": "A solution or remedy for all difficulties.",
+    "example": "Sleep isn't a panacea, but it fixes more than you'd think."
+  },
+  {
+    "id": "cynosure",
+    "word": "cynosure",
+    "partOfSpeech": "noun",
+    "definition": "A person or thing that is the center of attention or admiration.",
+    "example": "The vintage car was the cynosure of the whole show."
+  },
+  {
+    "id": "felicity",
+    "word": "felicity",
+    "partOfSpeech": "noun",
+    "definition": "Intense happiness; also, the ability to find appropriate expression.",
+    "example": "She wrote with rare felicity about ordinary days."
+  },
+  {
+    "id": "alacrity",
+    "word": "alacrity",
+    "partOfSpeech": "noun",
+    "definition": "Brisk and cheerful readiness.",
+    "example": "He accepted the invitation with alacrity."
+  },
+  {
+    "id": "fernweh",
+    "word": "fernweh",
+    "partOfSpeech": "noun",
+    "definition": "An ache for distant places you've never been.",
+    "example": "Old maps always gave her a pang of fernweh."
+  },
+  {
+    "id": "hiraeth",
+    "word": "hiraeth",
+    "partOfSpeech": "noun",
+    "definition": "A homesickness for a home you can't return to, or that maybe never was.",
+    "example": "The smell of pine brought on a wave of hiraeth."
+  },
+  {
+    "id": "meraki",
+    "word": "meraki",
+    "partOfSpeech": "noun",
+    "definition": "Doing something with soul, creativity, or love; putting yourself into your work.",
+    "example": "You can taste the meraki in his bread."
+  },
+  {
+    "id": "ikigai",
+    "word": "ikigai",
+    "partOfSpeech": "noun",
+    "definition": "A reason for being; the thing that makes life worth living.",
+    "example": "Teaching kids to swim turned out to be her ikigai."
+  },
+  {
+    "id": "respite",
+    "word": "respite",
+    "partOfSpeech": "noun",
+    "definition": "A short period of rest or relief from something difficult.",
+    "example": "The quiet café offered a respite from the noise."
+  },
+  {
+    "id": "lambent",
+    "word": "lambent",
+    "partOfSpeech": "adjective",
+    "definition": "Glowing, gleaming, or flickering with a soft radiance.",
+    "example": "Lambent candlelight played across the table."
+  },
+  {
+    "id": "incandescent",
+    "word": "incandescent",
+    "partOfSpeech": "adjective",
+    "definition": "Emitting light as a result of being heated; full of strong emotion.",
+    "example": "She gave an incandescent performance."
+  },
+  {
+    "id": "susurrus",
+    "word": "susurrus",
+    "partOfSpeech": "noun",
+    "definition": "A whispering or rustling sound.",
+    "example": "The susurrus of the leaves lulled him to sleep."
+  },
+  {
+    "id": "effervescent",
+    "word": "effervescent",
+    "partOfSpeech": "adjective",
+    "definition": "Vivacious and enthusiastic; bubbly.",
+    "example": "Her effervescent laugh filled the room."
+  },
+  {
+    "id": "serene",
+    "word": "serene",
+    "partOfSpeech": "adjective",
+    "definition": "Calm, peaceful, and untroubled.",
+    "example": "The lake was serene at dawn."
+  },
+  {
+    "id": "kismet",
+    "word": "kismet",
+    "partOfSpeech": "noun",
+    "definition": "Destiny; fate.",
+    "example": "Meeting again in a different city felt like kismet."
+  },
+  {
+    "id": "lan",
+    "word": "élan",
+    "partOfSpeech": "noun",
+    "definition": "Energy, style, and enthusiasm.",
+    "example": "The band played with real élan."
+  },
+  {
+    "id": "pluviophile",
+    "word": "pluviophile",
+    "partOfSpeech": "noun",
+    "definition": "A lover of rain; someone who finds joy and peace on rainy days.",
+    "example": "A true pluviophile, he cancelled plans to watch the storm."
+  }
+]

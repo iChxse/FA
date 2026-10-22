@@ -1,0 +1,232 @@
+[
+  {
+    "id": "q001",
+    "text": "The happiness of your life depends upon the quality of your thoughts.",
+    "author": "Marcus Aurelius"
+  },
+  {
+    "id": "q002",
+    "text": "You have power over your mind, not outside events. Realize this, and you will find strength.",
+    "author": "Marcus Aurelius"
+  },
+  {
+    "id": "q003",
+    "text": "Waste no more time arguing about what a good man should be. Be one.",
+    "author": "Marcus Aurelius"
+  },
+  {
+    "id": "q004",
+    "text": "We suffer more often in imagination than in reality.",
+    "author": "Seneca"
+  },
+  {
+    "id": "q005",
+    "text": "While we are postponing, life speeds by.",
+    "author": "Seneca"
+  },
+  {
+    "id": "q006",
+    "text": "It is not that we have a short time to live, but that we waste a lot of it.",
+    "author": "Seneca"
+  },
+  {
+    "id": "q007",
+    "text": "No man is free who is not master of himself.",
+    "author": "Epictetus"
+  },
+  {
+    "id": "q008",
+    "text": "First say to yourself what you would be; and then do what you have to do.",
+    "author": "Epictetus"
+  },
+  {
+    "id": "q009",
+    "text": "The unexamined life is not worth living.",
+    "author": "Socrates"
+  },
+  {
+    "id": "q010",
+    "text": "We are what we repeatedly do.",
+    "author": "Will Durant"
+  },
+  {
+    "id": "q011",
+    "text": "Knowing yourself is the beginning of all wisdom.",
+    "author": "Aristotle"
+  },
+  {
+    "id": "q012",
+    "text": "The journey of a thousand miles begins with a single step.",
+    "author": "Lao Tzu"
+  },
+  {
+    "id": "q013",
+    "text": "Nature does not hurry, yet everything is accomplished.",
+    "author": "Lao Tzu"
+  },
+  {
+    "id": "q014",
+    "text": "What lies behind us and what lies before us are tiny matters compared to what lies within us.",
+    "author": "Henry S. Haskins"
+  },
+  {
+    "id": "q015",
+    "text": "Go confidently in the direction of your dreams. Live the life you have imagined.",
+    "author": "Henry David Thoreau"
+  },
+  {
+    "id": "q016",
+    "text": "It's not what you look at that matters, it's what you see.",
+    "author": "Henry David Thoreau"
+  },
+  {
+    "id": "q017",
+    "text": "I took a deep breath and listened to the old brag of my heart. I am, I am, I am.",
+    "author": "Sylvia Plath"
+  },
+  {
+    "id": "q018",
+    "text": "Not everything that is faced can be changed, but nothing can be changed until it is faced.",
+    "author": "James Baldwin"
+  },
+  {
+    "id": "q019",
+    "text": "If you want to fly, you have to give up the things that weigh you down.",
+    "author": "Toni Morrison"
+  },
+  {
+    "id": "q020",
+    "text": "Tell me, what is it you plan to do with your one wild and precious life?",
+    "author": "Mary Oliver"
+  },
+  {
+    "id": "q021",
+    "text": "Attention is the beginning of devotion.",
+    "author": "Mary Oliver"
+  },
+  {
+    "id": "q022",
+    "text": "How we spend our days is, of course, how we spend our lives.",
+    "author": "Annie Dillard"
+  },
+  {
+    "id": "q023",
+    "text": "The best way out is always through.",
+    "author": "Robert Frost"
+  },
+  {
+    "id": "q024",
+    "text": "In three words I can sum up everything I've learned about life: it goes on.",
+    "author": "Robert Frost"
+  },
+  {
+    "id": "q025",
+    "text": "Hope is the thing with feathers that perches in the soul.",
+    "author": "Emily Dickinson"
+  },
+  {
+    "id": "q026",
+    "text": "Forever is composed of nows.",
+    "author": "Emily Dickinson"
+  },
+  {
+    "id": "q027",
+    "text": "Be patient toward all that is unsolved in your heart and try to love the questions themselves.",
+    "author": "Rainer Maria Rilke"
+  },
+  {
+    "id": "q028",
+    "text": "Let everything happen to you: beauty and terror. Just keep going. No feeling is final.",
+    "author": "Rainer Maria Rilke"
+  },
+  {
+    "id": "q029",
+    "text": "Imagination is more important than knowledge.",
+    "author": "Albert Einstein"
+  },
+  {
+    "id": "q030",
+    "text": "Life is like riding a bicycle. To keep your balance you must keep moving.",
+    "author": "Albert Einstein"
+  },
+  {
+    "id": "q031",
+    "text": "Nothing in life is to be feared, it is only to be understood.",
+    "author": "Marie Curie"
+  },
+  {
+    "id": "q032",
+    "text": "Whenever you find yourself on the side of the majority, it is time to pause and reflect.",
+    "author": "Mark Twain"
+  },
+  {
+    "id": "q033",
+    "text": "You miss 100% of the shots you don't take.",
+    "author": "Wayne Gretzky"
+  },
+  {
+    "id": "q034",
+    "text": "Stay hungry. Stay foolish.",
+    "author": "Stewart Brand"
+  },
+  {
+    "id": "q035",
+    "text": "The only way to do great work is to love what you do.",
+    "author": "Steve Jobs"
+  },
+  {
+    "id": "q036",
+    "text": "Done is better than perfect.",
+    "author": "Sheryl Sandberg"
+  },
+  {
+    "id": "q037",
+    "text": "A ship in harbor is safe, but that is not what ships are built for.",
+    "author": "John A. Shedd"
+  },
+  {
+    "id": "q038",
+    "text": "Do what you can, with what you have, where you are.",
+    "author": "Theodore Roosevelt"
+  },
+  {
+    "id": "q039",
+    "text": "The obstacle is the way.",
+    "author": "Ryan Holiday"
+  },
+  {
+    "id": "q040",
+    "text": "The cure for anything is salt water: sweat, tears, or the sea.",
+    "author": "Isak Dinesen"
+  },
+  {
+    "id": "q041",
+    "text": "There is no greater agony than bearing an untold story inside you.",
+    "author": "Maya Angelou"
+  },
+  {
+    "id": "q042",
+    "text": "You can't use up creativity. The more you use, the more you have.",
+    "author": "Maya Angelou"
+  },
+  {
+    "id": "q043",
+    "text": "Well done is better than well said.",
+    "author": "Benjamin Franklin"
+  },
+  {
+    "id": "q044",
+    "text": "Act as if what you do makes a difference. It does.",
+    "author": "William James"
+  },
+  {
+    "id": "q045",
+    "text": "Dwell on the beauty of life. Watch the stars, and see yourself running with them.",
+    "author": "Marcus Aurelius"
+  },
+  {
+    "id": "q046",
+    "text": "Small deeds done are better than great deeds planned.",
+    "author": "Peter Marshall"
+  }
+]
